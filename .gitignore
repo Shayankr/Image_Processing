@@ -1,0 +1,5 @@
+#Prevent these files from viewing publically and reduced the burden on repo
+
+file.txt/*
+file_1.txt/*
+
