@@ -1,3 +1,4 @@
 #Prevent these files from viewing publically and reduced the burden on repo
-*.txt
+hidden/
+file.txt
 
