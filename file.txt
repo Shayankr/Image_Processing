@@ -1,0 +1,1 @@
+This a sample file..to implememnt the us eof ".gitignore"
